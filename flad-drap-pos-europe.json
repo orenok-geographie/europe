@@ -189,16 +189,7 @@
          "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EU-Ireland_%28orthographic_projection%29.svg/480px-EU-Ireland_%28orthographic_projection%29.svg.png"
 
     },
-    {
-        "name": "Israel",
-        "capital": "Jerusalem",
-        "population": 9216900,
-        "fr": "Israël",
-        "flag": "https://flagcdn.com/il.svg",
-        "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Emblem_of_Israel.svg",
-        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Israel_%28orthographic_projection%29_with_occupied_territories.svg/480px-Israel_%28orthographic_projection%29_with_occupied_territories.svg.png"
 
-    },
     {
         "name": "Italy",
         "capital": "Rome",
