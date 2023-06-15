@@ -17,15 +17,7 @@
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coat_of_Arms_of_Andorra.svg/800px-Coat_of_Arms_of_Andorra.svg.png",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/877px-Location_Andorra_Europe.png"
     },
-    {
-        "name": "Armenia",
-        "capital": "Yerevan",
-        "population": 2963234,
-        "fr": "Arménie",
-        "flag": "https://flagcdn.com/am.svg",
-        "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Coat_of_arms_of_Armenia.svg/1024px-Coat_of_arms_of_Armenia.svg.png",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Armenia_%28orthographic_projection%29.svg/langfr-800px-Armenia_%28orthographic_projection%29.svg.png"
-    },
+   
     {
         "name": "Austria",
         "capital": "Vienna",
